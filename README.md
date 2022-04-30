@@ -44,6 +44,7 @@ Workshop é uma aplicação CRUD(Create, Read, Update e Delete) desenvolvida par
 ## Outras Tecnologias
 
 - Bootstrap
+- Asp.Net
 
 ## Banco de Dados
 
