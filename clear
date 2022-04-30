@@ -1,0 +1,25 @@
+[33meffcef7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Implementing simple search
+[33m617aa57[m Preparing sales search navigation views
+[33md598658[m Exception handling for delete (referential integrity)
+[33m09d7a8b[m Asynchronous operations using Tasks (async, await)
+[33m19b5196[m Validation
+[33mfd6544b[m App locale, number and date formatting
+[33m8afd349[m Returning custom error page
+[33m739149d[m Update seller and custom service exception
+[33m1808273[m Seller details and eager loading
+[33mf58b36c[m Delete seller
+[33m4aa5c8e[m SellerFormViewModel and Department select component
+[33mdb0159a[m Foreign key not null (referential integrity)
+[33m26a7237[m Simple Create form
+[33mf256c76[m SellerService and basic FindAll
+[33mfa94065[m SellersController
+[33m7eda78f[m Seeding Service
+[33m279260f[m Other entities and second migration
+[33m25df2df[m Changing theme
+[33m5e348c2[m MySQL adaptation and first migration
+[33mb4fe02f[m CRUD scaffolding
+[33m8cc13d9[m Deleting Department view and controller
+[33ma7871f1[m First Model-Controller-View - Department
+[33m6295b8e[m First controller and Razor pages tests
+[33m01cc8e4[m Adicionar arquivos de projeto.
+[33mba04c7f[m Adicione .gitattributes, .gitignore e README.md.
