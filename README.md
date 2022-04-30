@@ -8,3 +8,7 @@ Workshop é uma aplicação CRUD desenvolvida para cadastros de Departamentos, v
 ## Layout da Lista de Departamento
 
 ![Lista Department](https://github.com/jehveiga/workshop-asp-net-core-mvc/blob/master/assets/IndexDepartment.png)
+
+## Layout da Lista de Vendedores
+
+![Lista de Vendedores](https://github.com/jehveiga/workshop-asp-net-core-mvc/blob/master/assets/IndexSeller.png)
